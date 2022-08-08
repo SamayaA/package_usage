@@ -1,0 +1,23 @@
+{
+  "name": "package_usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamayaA/package_usage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamayaA/package_usage/issues"
+  },
+  "homepage": "https://github.com/SamayaA/package_usage#readme",
+  "dependencies": {
+    "@samayaa/platforms": "^1.0.0"
+  }
+}
